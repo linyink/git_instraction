@@ -1,0 +1,10 @@
+1.在G:\GitHub\clone文件夹下建立文件：
+	创建一个版本库
+	创建一个文件夹GitDemo，
+	然后  右键--Git Create repository here..
+2.创建一个文件，然后提交(git commit)到版本库[这个操作可以在离线状态操作].
+	有时对新建的文件右键没有commit操作，可以直接对文件夹进行提交。
+3.将代码推送(push)到云端，如github上
+	在github上选中一个仓库,找到clone or download就可以找到对应的url，复制下来。
+	6将电脑得代码push到云端。右键-->tortoiseGit-->push.
+	输入对应的用户名和密码就完成了.
